@@ -20,7 +20,7 @@ function createEnemies(ctx, canvas, enemyImg) {
     }
   }
 }
-
+//till that
 window.onload = async () => {
   canvas = document.getElementById("canvas");
   ctx = canvas.getContext("2d");
